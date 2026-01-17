@@ -2,6 +2,8 @@ DSA learning through building small tool and understanding the actual scenario r
 change my approach of learning because i experienced that learning concept and practicing question is not enough i forgot concept as well
 as concept so not just learning trying to build actual thing will boost my interest in Data structures and algorithm.
 
+1. Array
+
 simple array based score management tool that does mainly four things
 1.print score of students
 2.print the maximum score
